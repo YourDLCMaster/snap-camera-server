@@ -59,15 +59,6 @@ You need to apply a special [Snap Camera Signature Patch](https://ptrumpis.githu
 
 ## 💬 Community
 This is a non profit open source project for the greater good and you can help to make it better.
-- [🐛 Report Bugs](https://github.com/ptrumpis/snap-camera-server/issues)
-- [🙏 Ask for Help](https://github.com/ptrumpis/snap-camera-server/discussions/categories/q-a)
-
-Help to build a community
-- [💬 Join Discussions](https://github.com/ptrumpis/snap-camera-server/discussions)
-- [💡 Suggest Features](https://github.com/ptrumpis/snap-camera-server/discussions/categories/ideas)
-- [👍 Help Others](https://github.com/ptrumpis/snap-camera-server/discussions/categories/q-a)
-- [🙌 Share Lenses](https://github.com/ptrumpis/snap-camera-server/discussions/categories/share)
-- [✍️ Contribute](https://github.com/ptrumpis/snap-camera-server/pulls)
 
 #### 🔗 Like and share this project with others:  
 
@@ -86,15 +77,3 @@ Help to build a community
 
 ## 🤝 Contributors
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=ptrumpis/snap-camera-server)
-
-## ❤️ Support
-If you like my work and want to support me, feel free to invite me for a virtual coffee ☕  
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ptrumpis)
-[![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ptrumpis)
-[![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/ptrumpis/)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=D2T92FVZAE65L)
-
-You can also become my GitHub Sponsor  
-
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/ptrumpis)
